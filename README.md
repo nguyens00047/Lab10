@@ -6,4 +6,4 @@ Part 2
 https://nguyens00047.github.io/Lab10/
 
 Part 3
-[ss](google-analytics-ss.png)
+[ss](googleanalyticsss.png)
